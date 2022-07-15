@@ -6,7 +6,7 @@
 
 
 
-Extra stuff going to be added... hopefully... if i am not lazy :sleeping:
+Extra stuff going to be added...:sleeping:
 
 <!---
 swadaskar/swadaskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
