@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Siddhant Wadaskar (@swadaskar).
 - 👀 I’m interested in Software Development, AI and AR/VR Development.
 - 🌱 I’m currently doing my M.S. in Computer Science.
-- 💞️ I’m looking to collaborate on any Software Projects related to AI, AR/VR or any new interesting topic.
+- 💞️ I’m looking to collaborate on any Software Projects related to Cloud, AI, AR/VR or any new interesting topic.
 - 📫 You can to reach me on Linkedin: https://www.linkedin.com/in/siddhantwadaskar/
 
 
